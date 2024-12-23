@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b); /* A beautiful gradient */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 50px;
+}
